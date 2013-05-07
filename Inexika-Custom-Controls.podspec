@@ -10,5 +10,4 @@ Pod::Spec.new do |s|
   s.description  = 'a UIView subclass that customizes the appearance of UIPickerView and UIDatePicker views.'
   s.requires_arc    = true
   s.source_files = 'IXPickerOverlayView/*.{h,m}'
-  s.resources = 'IXPickerOverlayView/*.png'
 end
